@@ -8,6 +8,7 @@
 #### Updates:
 - Added more Information to the log
 - Corrected the Playoff Seats accordingly
+- Added Confirmation-Window for the clear log Button
 &nbsp;
 
 #### Multi-Simulate:
